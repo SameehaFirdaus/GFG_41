@@ -6,7 +6,7 @@ Tags:
   - Matrix
 ---
 
-# 🚀 _Day 6. Set Matrix Zeroes_ 🧠
+# 🚀 _Day 41. Set Matrix Zeroes_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/set-matrix-zeroes)
 
